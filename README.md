@@ -8,7 +8,6 @@ Este projeto é uma análise preditiva de dados, focando no treinamento de model
 
 Os seguintes modelos foram implementados neste projeto:
 
-- **K-means**: Algoritmo de agrupamento para segmentação de dados.
 - **KNN (K-Nearest Neighbors)**: Classificação baseada na proximidade dos dados.
 - **SVC (Support Vector Classifier)**: Classificador baseado em margens.
 - **Random Forest**: Modelo de aprendizado de conjunto que utiliza múltiplas árvores de decisão.
@@ -25,13 +24,12 @@ Utilizei como referência o notebook [Medical Insurance Price Prediction](https:
 
 ## Análises Preditivas
 
-Minhas duas análises preditivas foram:
+Minha análise preditiva:
 
-1. **Segmentação de Artistas ou Músicas**
-2. **Predição de Valência Musical**
+1. **Predição de Valência Musical**
 
 A aplicação dos 5 modelos mencionados foi realizada na **Predição de Valência Musical**.
 
 ## Conclusão
 
-Este projeto não só melhorou minha compreensão dos conceitos de machine learning, mas também proporcionou experiência prática no tratamento e análise de dados musicais.
+Este projeto está sendo um desafio que está me refinando no conceito de dados. Logo, pretendo trazer novos modelos e continuar atualizando esse projeto.
