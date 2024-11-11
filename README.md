@@ -2,6 +2,7 @@
 
 ## Descrição do Projeto
 Este projeto é uma análise preditiva e de segmentação de dados musicais, utilizando **modelos supervisionados e não supervisionados**. O foco é aplicar diferentes técnicas de **machine learning** para prever e agrupar músicas com base em suas características sonoras, identificando músicas com maior probabilidade de se tornarem hits.
+link para meu projeto: https://www.kaggle.com/code/kevinsouza284/basedehits/edit/run/206340640
 
 ## Modelos Utilizados
 Neste projeto, foram implementados dois tipos de modelos:
